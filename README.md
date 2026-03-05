@@ -1,2 +1,2 @@
 # practice-repo
-for practicing some beginner tools
+this file is created for learning the basics of this platform
